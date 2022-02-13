@@ -7,7 +7,8 @@ using Volo.Abp.Application.Services;
 
 namespace AbpAngularExample.Services
 {
-    public interface IGenericService<TDto, TKey, TGetListInput, TCreateInput, TUpdateInput> : ICrudAppService<TDto, TKey, TGetListInput, TCreateInput, TUpdateInput>
+    public interface IGenericService<TDto, TKey, TGetListInput, TCreateInput, TUpdateInput> 
+        : ICrudAppService<TDto, TKey, TGetListInput, TCreateInput, TUpdateInput>
         where TDto : IEntityDto<TKey>
     {
         Task<IEnumerable<TDto>> GetFull();
