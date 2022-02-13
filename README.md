@@ -44,7 +44,7 @@ ABP provides a **full stack developer experience**.
 
 ### Architecture
 
-<img src="docs/en/images/ddd-microservice-simple.png">
+<img src="docs/images/ddd-microservice-simple.png">
 
 ABP offers a complete, **modular** and **layered** software architecture based on **[Domain Driven Design](https://docs.abp.io/en/abp/latest/Domain-Driven-Design)** principles and patterns. It also provides the necessary infrastructure and guiding to [implement this architecture](https://docs.abp.io/en/abp/latest/Domain-Driven-Design-Implementation-Guide).
 
