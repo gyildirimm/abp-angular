@@ -32,11 +32,11 @@ Create a new solution:
 > See the [CLI documentation](https://docs.abp.io/en/abp/latest/CLI) for all available options.
 ### UI Framework Options
 
-<img width="500" src="docs/en/images/ui-options.png">
+<img width="500" src="docs/images/ui-options.png">
 
 ### Database Provider Options
 
-<img width="500" src="docs/en/images/db-options.png">
+<img width="500" src="docs/images/db-options.png">
 
 ## What ABP Provides?
 
